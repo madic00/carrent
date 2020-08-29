@@ -1,0 +1,6 @@
+/carrent/models/reviews/changeState.php	/carrent/models/reviews/changeState.php	14-06-2020 23:40:36	SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bookId' in 'where clause'	
+/carrent/models/reviews/changeState.php	/carrent/models/reviews/changeState.php	14-06-2020 23:41:02	SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bookId' in 'where clause'	
+/carrent/models/reviews/userInsert.php	/carrent/models/reviews/userInsert.php	15-06-2020 12:28:46	SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'vehicleId' cannot be null	
+/carrent/models/account/register.php	/carrent/models/account/register.php	17-06-2020 09:15:44	SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'alemadic@gmail.com' for key 'email'	
+/carrent/models/account/register.php	/carrent/models/account/register.php	17-06-2020 09:16:07	SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'I324-321-45-093-1' for key 'licenceNo'	
+/carrent/models/account/register.php	/carrent/models/account/register.php	17-06-2020 09:38:42	SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'I324-321-45-093-1' for key 'licenceNo'	
